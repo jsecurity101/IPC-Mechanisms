@@ -40,5 +40,7 @@ Alfheim
 
 
 References
+
 info pulled from the following sources
+
 - https://marvelcinematicuniverse.fandom.com/wiki/Nine_Realms
