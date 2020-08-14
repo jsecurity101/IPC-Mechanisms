@@ -17,9 +17,10 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Test'
+project = 'NineRealms'
 copyright = '2020, Jonathan Johnson'
 author = 'Jonathan Johnson'
+contributors = '@nc3pt0r'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
