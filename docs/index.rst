@@ -36,3 +36,9 @@ Muspelheim
 Alfheim
 
     Alfheim is one of the Nine Realms and is home to the Light Elves.
+
+
+
+References
+info pulled from the following sources
+- https://marvelcinematicuniverse.fandom.com/wiki/Nine_Realms
